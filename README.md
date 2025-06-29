@@ -30,7 +30,17 @@ Anggota Kelompok:
     Waiting for a connection, Server Started
     ```
 
-## 3. Langkah-langkah Menjalankan Client
+## 3. Langkah-langkah Menjalankan HttpServer
+
+1. Jalankan server dengan perintah:
+    ```bash
+    python server_thread_pool_http.py
+    ```
+
+2. Setelah server berjalan, buka browser dan akses [localhost:8885/status](http://localhost:8885/status) untuk melihat log aktivitas permainan:
+
+
+## 4. Langkah-langkah Menjalankan Client
 
 1. Buka terminal baru.
 
